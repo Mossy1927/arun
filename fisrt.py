@@ -1,3 +1,4 @@
 a=6
 b=9
-print(a+b);
+c=12
+print(a+b+c);
